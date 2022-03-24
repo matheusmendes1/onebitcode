@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.blog {
+  background: #FFF9F8;
+  max-width: 80%;
+  margin: auto;
+}
+
+.blog-content {
+  padding: 30px;
+}
+
+.blog-title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+
+.blog-date {
+  font-family: 'Roboto', sans-serif;
+  color: #008080;
+  font-weight: 500;
+}
+
+.blog-post { 
+  font-family: 'Open Sans', sans-serif;
+}
